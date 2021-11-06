@@ -29,11 +29,12 @@
    
 }
 
-.card-body{
+.card-body-book{
     transition: 1s;
+    margin: 15px;
 }
 
-    .card-body:hover{
+    .card-body-book:hover{
 
         transform: scale(1.1);
         background-color: rgb(239, 245, 245);
@@ -44,3 +45,6 @@
     border: none;
 
 }
+-----------------
+
+    
