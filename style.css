@@ -7,9 +7,9 @@
    max-width: 20%;
 }
 .btn{
-    border-radius: 45%;
-    padding: 5px 20px;
-    margin: 10px 15px;
+    border-radius: 30px;
+    padding: 10px 30px;
+   
 }
 .under-logo-left{
     margin-left: 20px;
@@ -45,6 +45,3 @@
     border: none;
 
 }
------------------
-
-    
